@@ -20,6 +20,7 @@
 
 - [RACT: TOWARDS AMORTIZED RANKING-CRITICAL TRAINING FOR COLLABORATIVE FILTERING](https://github.com/fotol1/RecSysPapersReviews/blob/master/RaCT.md) - RL
 - [LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation](https://github.com/fotol1/RecSysPapersReviews/blob/master/LightGCN.md) - Прочее
+- [Managing Popularity Bias in Recommender Systems with Personalized Re-raniking](https://github.com/fotol1/RecSysPapersReviews/blob/master/ManPopBias.md) - Bias
 
 ### Планирую разобрать
 
