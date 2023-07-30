@@ -1,5 +1,4 @@
-
-# Investigating the Robustness of Sequential Recommender Systems Against Training Data Perturbations: An Empirical Study
+# Investigating the Robustness of Sequential Recommender Systems Against Training Data Perturbations: An Empirical Study (2023)
 
 ### Links:
 
